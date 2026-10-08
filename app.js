@@ -265,7 +265,7 @@ const JOBS = {
     },
     einstiegVerbaut: true,
     fact: "Von allen untersuchten Berufen ist hier der Fehlernachweis am leichtesten: Regulierte Arbeitspapiere, Prüfungsstandards, externe Inspektionen. Das ist der Grund, warum die Garantie hier am längsten trägt.",
-    fact2: "Gegenläufig wirkt die gesetzliche Haftungsbegrenzung für Abschlussprüfer — sie deckelt genau das Versprechen, das den Nachweis wert wäre. [Redaktion: österreichische Fundstelle vor Druck prüfen.]"
+    fact2: "Gegenläufig wirkt die gesetzliche Haftungsbegrenzung für Abschlussprüfer. § 275 UGB deckelt bei Fahrlässigkeit genau das Versprechen, das den Nachweis wert wäre."
   },
   sozial: {
     icon: "🤝",
